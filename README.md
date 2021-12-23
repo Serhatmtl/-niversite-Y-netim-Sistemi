@@ -1,1 +1,1 @@
-# -niversite-Y-netim-Sistemi
+# University-Managment-System
